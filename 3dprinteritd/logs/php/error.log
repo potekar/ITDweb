@@ -1,0 +1,474 @@
+[15-May-2023 19:47:22 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[16-May-2023 14:25:56 UTC] PHP Warning:  Undefined array key "position" in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-includes\customize\class-wp-customize-nav-menu-item-setting.php on line 696
+[16-May-2023 14:25:56 UTC] PHP Warning:  Undefined array key "position" in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-includes\customize\class-wp-customize-nav-menu-item-setting.php on line 696
+[16-May-2023 14:25:56 UTC] PHP Warning:  Undefined array key "position" in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-includes\customize\class-wp-customize-nav-menu-item-setting.php on line 696
+[16-May-2023 14:25:56 UTC] PHP Warning:  Undefined array key "position" in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-includes\customize\class-wp-customize-nav-menu-item-setting.php on line 696
+[16-May-2023 14:25:56 UTC] PHP Warning:  Undefined array key "position" in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-includes\customize\class-wp-customize-nav-menu-item-setting.php on line 696
+[16-May-2023 14:25:57 UTC] PHP Warning:  Undefined array key "position" in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-includes\customize\class-wp-customize-nav-menu-item-setting.php on line 696
+[16-May-2023 14:25:57 UTC] PHP Warning:  Undefined array key "position" in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-includes\customize\class-wp-customize-nav-menu-item-setting.php on line 696
+[16-May-2023 14:25:57 UTC] PHP Warning:  Undefined array key "position" in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-includes\customize\class-wp-customize-nav-menu-item-setting.php on line 696
+[16-May-2023 14:25:57 UTC] PHP Warning:  Undefined array key "position" in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-includes\customize\class-wp-customize-nav-menu-item-setting.php on line 696
+[16-May-2023 14:25:58 UTC] PHP Warning:  Undefined array key "position" in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-includes\customize\class-wp-customize-nav-menu-item-setting.php on line 696
+[16-May-2023 14:25:58 UTC] PHP Warning:  Undefined array key "position" in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-includes\customize\class-wp-customize-nav-menu-item-setting.php on line 696
+[16-May-2023 14:25:58 UTC] PHP Warning:  Undefined array key "position" in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-includes\customize\class-wp-customize-nav-menu-item-setting.php on line 696
+[16-May-2023 14:25:58 UTC] PHP Warning:  Undefined array key "position" in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-includes\customize\class-wp-customize-nav-menu-item-setting.php on line 696
+[16-May-2023 14:25:58 UTC] PHP Warning:  Undefined array key "position" in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-includes\customize\class-wp-customize-nav-menu-item-setting.php on line 696
+[16-May-2023 14:25:58 UTC] PHP Warning:  Undefined array key "position" in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-includes\customize\class-wp-customize-nav-menu-item-setting.php on line 696
+[16-May-2023 14:25:58 UTC] PHP Warning:  Undefined array key "position" in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-includes\customize\class-wp-customize-nav-menu-item-setting.php on line 696
+[16-May-2023 14:25:58 UTC] PHP Warning:  Undefined array key "position" in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-includes\customize\class-wp-customize-nav-menu-item-setting.php on line 696
+[16-May-2023 14:25:59 UTC] PHP Warning:  Undefined array key "position" in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-includes\customize\class-wp-customize-nav-menu-item-setting.php on line 696
+[16-May-2023 14:25:59 UTC] PHP Warning:  Undefined array key "position" in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-includes\customize\class-wp-customize-nav-menu-item-setting.php on line 696
+[16-May-2023 14:25:59 UTC] PHP Warning:  Undefined array key "position" in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-includes\customize\class-wp-customize-nav-menu-item-setting.php on line 696
+[16-May-2023 14:25:59 UTC] PHP Warning:  Undefined array key "position" in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-includes\customize\class-wp-customize-nav-menu-item-setting.php on line 696
+[16-May-2023 14:25:59 UTC] PHP Warning:  Undefined array key "position" in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-includes\customize\class-wp-customize-nav-menu-item-setting.php on line 696
+[16-May-2023 14:25:59 UTC] PHP Warning:  Undefined array key "position" in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-includes\customize\class-wp-customize-nav-menu-item-setting.php on line 696
+[16-May-2023 14:26:26 UTC] PHP Warning:  Undefined array key "position" in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-includes\customize\class-wp-customize-nav-menu-item-setting.php on line 696
+[16-May-2023 14:26:26 UTC] PHP Warning:  Undefined array key "position" in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-includes\customize\class-wp-customize-nav-menu-item-setting.php on line 696
+[16-May-2023 14:26:26 UTC] PHP Warning:  Undefined array key "position" in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-includes\customize\class-wp-customize-nav-menu-item-setting.php on line 696
+[16-May-2023 14:26:26 UTC] PHP Warning:  Undefined array key "position" in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-includes\customize\class-wp-customize-nav-menu-item-setting.php on line 696
+[16-May-2023 14:26:26 UTC] PHP Warning:  Undefined array key "position" in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-includes\customize\class-wp-customize-nav-menu-item-setting.php on line 696
+[16-May-2023 14:26:27 UTC] PHP Warning:  Undefined array key "position" in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-includes\customize\class-wp-customize-nav-menu-item-setting.php on line 696
+[16-May-2023 14:26:27 UTC] PHP Warning:  Undefined array key "position" in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-includes\customize\class-wp-customize-nav-menu-item-setting.php on line 696
+[16-May-2023 14:26:27 UTC] PHP Warning:  Undefined array key "position" in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-includes\customize\class-wp-customize-nav-menu-item-setting.php on line 696
+[16-May-2023 14:26:27 UTC] PHP Warning:  Undefined array key "position" in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-includes\customize\class-wp-customize-nav-menu-item-setting.php on line 696
+[16-May-2023 14:26:27 UTC] PHP Warning:  Undefined array key "position" in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-includes\customize\class-wp-customize-nav-menu-item-setting.php on line 696
+[16-May-2023 14:26:27 UTC] PHP Warning:  Undefined array key "position" in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-includes\customize\class-wp-customize-nav-menu-item-setting.php on line 696
+[16-May-2023 14:26:27 UTC] PHP Warning:  Undefined array key "position" in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-includes\customize\class-wp-customize-nav-menu-item-setting.php on line 696
+[16-May-2023 14:26:27 UTC] PHP Warning:  Undefined array key "position" in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-includes\customize\class-wp-customize-nav-menu-item-setting.php on line 696
+[16-May-2023 14:26:27 UTC] PHP Warning:  Undefined array key "position" in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-includes\customize\class-wp-customize-nav-menu-item-setting.php on line 696
+[16-May-2023 14:26:27 UTC] PHP Warning:  Undefined array key "position" in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-includes\customize\class-wp-customize-nav-menu-item-setting.php on line 696
+[16-May-2023 14:26:27 UTC] PHP Warning:  Undefined array key "position" in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-includes\customize\class-wp-customize-nav-menu-item-setting.php on line 696
+[16-May-2023 14:26:27 UTC] PHP Warning:  Undefined array key "position" in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-includes\customize\class-wp-customize-nav-menu-item-setting.php on line 696
+[16-May-2023 14:26:29 UTC] PHP Warning:  Undefined array key "position" in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-includes\customize\class-wp-customize-nav-menu-item-setting.php on line 696
+[16-May-2023 14:26:29 UTC] PHP Warning:  Undefined array key "position" in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-includes\customize\class-wp-customize-nav-menu-item-setting.php on line 696
+[16-May-2023 14:26:29 UTC] PHP Warning:  Undefined array key "position" in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-includes\customize\class-wp-customize-nav-menu-item-setting.php on line 696
+[16-May-2023 14:26:29 UTC] PHP Warning:  Undefined array key "position" in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-includes\customize\class-wp-customize-nav-menu-item-setting.php on line 696
+[16-May-2023 14:26:29 UTC] PHP Warning:  Undefined array key "position" in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-includes\customize\class-wp-customize-nav-menu-item-setting.php on line 696
+[16-May-2023 14:26:29 UTC] PHP Warning:  Undefined array key "position" in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-includes\customize\class-wp-customize-nav-menu-item-setting.php on line 696
+[16-May-2023 14:28:07 UTC] PHP Warning:  Undefined array key "position" in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-includes\customize\class-wp-customize-nav-menu-item-setting.php on line 696
+[16-May-2023 14:28:07 UTC] PHP Warning:  Undefined array key "position" in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-includes\customize\class-wp-customize-nav-menu-item-setting.php on line 696
+[16-May-2023 14:28:07 UTC] PHP Warning:  Undefined array key "position" in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-includes\customize\class-wp-customize-nav-menu-item-setting.php on line 696
+[16-May-2023 14:28:07 UTC] PHP Warning:  Undefined array key "position" in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-includes\customize\class-wp-customize-nav-menu-item-setting.php on line 696
+[16-May-2023 14:28:07 UTC] PHP Warning:  Undefined array key "position" in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-includes\customize\class-wp-customize-nav-menu-item-setting.php on line 696
+[16-May-2023 14:28:08 UTC] PHP Warning:  Undefined array key "position" in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-includes\customize\class-wp-customize-nav-menu-item-setting.php on line 696
+[16-May-2023 14:28:08 UTC] PHP Warning:  Undefined array key "position" in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-includes\customize\class-wp-customize-nav-menu-item-setting.php on line 696
+[16-May-2023 14:28:08 UTC] PHP Warning:  Undefined array key "position" in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-includes\customize\class-wp-customize-nav-menu-item-setting.php on line 696
+[16-May-2023 14:28:08 UTC] PHP Warning:  Undefined array key "position" in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-includes\customize\class-wp-customize-nav-menu-item-setting.php on line 696
+[16-May-2023 14:28:08 UTC] PHP Warning:  Undefined array key "position" in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-includes\customize\class-wp-customize-nav-menu-item-setting.php on line 696
+[16-May-2023 14:28:08 UTC] PHP Warning:  Undefined array key "position" in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-includes\customize\class-wp-customize-nav-menu-item-setting.php on line 696
+[16-May-2023 14:28:08 UTC] PHP Warning:  Undefined array key "position" in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-includes\customize\class-wp-customize-nav-menu-item-setting.php on line 696
+[16-May-2023 14:28:08 UTC] PHP Warning:  Undefined array key "position" in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-includes\customize\class-wp-customize-nav-menu-item-setting.php on line 696
+[16-May-2023 14:28:09 UTC] PHP Warning:  Undefined array key "position" in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-includes\customize\class-wp-customize-nav-menu-item-setting.php on line 696
+[16-May-2023 14:28:09 UTC] PHP Warning:  Undefined array key "position" in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-includes\customize\class-wp-customize-nav-menu-item-setting.php on line 696
+[16-May-2023 14:28:15 UTC] PHP Warning:  Undefined array key "position" in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-includes\customize\class-wp-customize-nav-menu-item-setting.php on line 696
+[16-May-2023 14:31:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 14:31:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 14:31:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 14:31:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 14:31:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 14:31:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 14:31:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 14:31:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 14:31:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 14:31:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 14:31:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 14:31:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 14:31:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 14:31:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 14:31:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 14:31:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 14:31:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 14:31:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 14:31:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 14:31:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 14:31:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 14:31:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 14:31:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 14:31:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 14:31:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 14:31:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 14:31:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 14:31:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 14:31:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 14:31:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 14:31:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 14:46:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 14:46:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 14:46:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 14:46:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 14:46:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 14:46:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 14:46:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 14:46:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 14:46:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 14:46:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 14:46:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 14:46:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 14:46:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 14:46:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 14:46:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 14:46:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 14:46:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 14:46:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 14:46:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 14:46:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 14:46:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 14:46:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 14:46:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 14:46:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 14:46:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 14:46:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 14:46:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 14:46:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 14:46:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 14:46:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 14:46:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 15:11:37 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 15:11:37 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 15:11:37 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 15:11:37 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 15:11:37 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 15:11:37 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 15:11:37 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 15:11:37 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 15:11:37 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 15:11:37 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 15:11:37 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 15:11:37 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 15:11:37 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 15:11:37 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 15:11:37 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 15:11:37 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 15:11:37 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 15:11:37 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 15:11:37 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 15:11:37 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 15:11:37 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 15:11:37 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 15:11:37 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 15:11:37 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 15:11:49 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 15:11:49 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 15:11:49 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 15:11:49 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 15:11:49 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 15:11:49 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 15:11:49 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 15:11:49 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 15:11:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 15:11:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 15:11:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 15:11:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 15:11:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 15:11:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 15:11:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 15:11:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 15:11:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 15:11:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 15:11:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 15:11:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 15:11:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 15:11:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 15:11:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 15:11:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:29:43 UTC] PHP Warning:  Attempt to read property "shareWithOthers" on null in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\lottiefiles\src\common.php on line 50
+[16-May-2023 16:29:43 UTC] PHP Warning:  Attempt to read property "shareWithOthers" on null in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\lottiefiles\src\common.php on line 50
+[16-May-2023 16:29:43 UTC] PHP Warning:  Attempt to read property "shareWithOthers" on null in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\lottiefiles\src\common.php on line 50
+[16-May-2023 16:32:48 UTC] Sync process for Gutenberg Blocks has started.
+[16-May-2023 16:32:48 UTC] CATEGORY:Importing categories..
+[16-May-2023 16:32:48 UTC] CATEGORY:Storing in option ast-block-templates-categories
+[16-May-2023 16:32:48 UTC] CATEGORY:Completed category import.
+[16-May-2023 16:32:48 UTC] BLOCK: Getting Total Blocks
+[16-May-2023 16:32:48 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/get-blocks-count/?page_builder=gutenberg&wireframe=yes
+[16-May-2023 16:32:48 UTC] BLOCK: Requests count 4
+[16-May-2023 16:32:48 UTC] BLOCK: Importing request 1 ..
+[16-May-2023 16:32:48 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=1&wireframe=yes
+[16-May-2023 16:32:48 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[16-May-2023 16:32:48 UTC] BLOCK: Completed request 1
+[16-May-2023 16:32:48 UTC] BLOCK: Importing request 2 ..
+[16-May-2023 16:32:48 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=2&wireframe=yes
+[16-May-2023 16:32:48 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[16-May-2023 16:32:48 UTC] BLOCK: Completed request 2
+[16-May-2023 16:32:48 UTC] BLOCK: Importing request 3 ..
+[16-May-2023 16:32:48 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=3&wireframe=yes
+[16-May-2023 16:32:49 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[16-May-2023 16:32:49 UTC] BLOCK: Completed request 3
+[16-May-2023 16:32:49 UTC] BLOCK: Importing request 4 ..
+[16-May-2023 16:32:49 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=4&wireframe=yes
+[16-May-2023 16:32:49 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[16-May-2023 16:32:49 UTC] BLOCK: Completed request 4
+[16-May-2023 16:32:49 UTC] SITE: Getting Total Sites
+[16-May-2023 16:32:49 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg
+[16-May-2023 16:32:49 UTC] SITE: Request count 2
+[16-May-2023 16:32:49 UTC] SITE: Importing request 1 ..
+[16-May-2023 16:32:49 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=1&page-builder=gutenberg
+[16-May-2023 16:32:49 UTC] SITE: Storing in option ast-block-templates-sites-1
+[16-May-2023 16:32:49 UTC] SITE: Completed request 1
+[16-May-2023 16:32:49 UTC] SITE: Importing request 2 ..
+[16-May-2023 16:32:49 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=2&page-builder=gutenberg
+[16-May-2023 16:32:49 UTC] SITE: Storing in option ast-block-templates-sites-2
+[16-May-2023 16:32:49 UTC] SITE: Completed request 2
+[16-May-2023 16:32:49 UTC] Sync process for Gutenberg Blocks is done.
+[16-May-2023 16:33:04 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:33:04 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:33:04 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:33:04 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:33:04 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:33:04 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:33:04 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:33:04 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:33:04 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:33:04 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:33:04 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:33:04 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:33:04 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:33:04 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:33:04 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:33:04 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:33:04 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:33:04 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:33:04 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:33:04 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:33:04 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:33:04 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:33:04 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:33:04 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:35:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:35:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:35:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:35:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:35:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:35:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:35:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:35:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:35:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:35:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:35:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:35:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:35:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:35:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:35:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:35:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:35:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:35:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:35:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:35:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:35:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:35:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:35:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:35:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:40:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:40:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:40:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:40:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:40:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:40:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:40:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:40:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:40:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:40:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:40:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:40:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:40:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:40:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:40:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:40:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:40:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:40:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:40:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:40:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:40:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:40:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:40:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:40:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:41:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:41:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:41:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:41:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:41:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:41:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:41:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:41:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:41:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:41:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:41:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:41:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:41:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:41:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:41:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:41:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:41:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:41:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:41:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:41:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:41:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:41:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:41:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:41:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:57:26 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:57:26 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 16:57:26 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 17:03:39 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 17:03:39 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[16-May-2023 17:03:39 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 108
+[18-May-2023 13:48:59 UTC] PHP Warning:  Undefined variable $item in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\astra-sites\inc\importers\wxr-importer\class-wxr-importer.php on line 1158
+[18-May-2023 13:52:00 UTC] Sync process for Gutenberg Blocks has started.
+[18-May-2023 13:52:00 UTC] CATEGORY:Importing categories..
+[18-May-2023 13:52:00 UTC] CATEGORY:Storing in option ast-block-templates-categories
+[18-May-2023 13:52:00 UTC] CATEGORY:Completed category import.
+[18-May-2023 13:52:00 UTC] BLOCK: Getting Total Blocks
+[18-May-2023 13:52:00 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/get-blocks-count/?page_builder=gutenberg&wireframe=yes
+[18-May-2023 13:52:00 UTC] BLOCK: Requests count 4
+[18-May-2023 13:52:00 UTC] BLOCK: Importing request 1 ..
+[18-May-2023 13:52:00 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=1&wireframe=yes
+[18-May-2023 13:52:01 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[18-May-2023 13:52:01 UTC] BLOCK: Completed request 1
+[18-May-2023 13:52:01 UTC] BLOCK: Importing request 2 ..
+[18-May-2023 13:52:01 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=2&wireframe=yes
+[18-May-2023 13:52:01 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[18-May-2023 13:52:01 UTC] BLOCK: Completed request 2
+[18-May-2023 13:52:01 UTC] BLOCK: Importing request 3 ..
+[18-May-2023 13:52:01 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=3&wireframe=yes
+[18-May-2023 13:52:01 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[18-May-2023 13:52:01 UTC] BLOCK: Completed request 3
+[18-May-2023 13:52:01 UTC] BLOCK: Importing request 4 ..
+[18-May-2023 13:52:01 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=4&wireframe=yes
+[18-May-2023 13:52:01 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[18-May-2023 13:52:01 UTC] BLOCK: Completed request 4
+[18-May-2023 13:52:01 UTC] SITE: Getting Total Sites
+[18-May-2023 13:52:01 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg
+[18-May-2023 13:52:01 UTC] SITE: Request count 2
+[18-May-2023 13:52:01 UTC] SITE: Importing request 1 ..
+[18-May-2023 13:52:01 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=1&page-builder=gutenberg
+[18-May-2023 13:52:01 UTC] SITE: Storing in option ast-block-templates-sites-1
+[18-May-2023 13:52:01 UTC] SITE: Completed request 1
+[18-May-2023 13:52:01 UTC] SITE: Importing request 2 ..
+[18-May-2023 13:52:01 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=2&page-builder=gutenberg
+[18-May-2023 13:52:01 UTC] SITE: Storing in option ast-block-templates-sites-2
+[18-May-2023 13:52:01 UTC] SITE: Completed request 2
+[18-May-2023 13:52:01 UTC] Sync process for Gutenberg Blocks is done.
+[22-May-2023 08:29:02 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[22-May-2023 08:29:02 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[22-May-2023 08:29:02 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[22-May-2023 08:29:02 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[22-May-2023 08:29:02 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[22-May-2023 08:29:02 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[22-May-2023 08:29:02 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[22-May-2023 08:29:03 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9003 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[22-May-2023 08:29:03 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[22-May-2023 08:29:03 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[22-May-2023 08:29:03 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[22-May-2023 08:29:03 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[22-May-2023 08:29:03 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9003 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[22-May-2023 08:29:03 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[22-May-2023 08:29:03 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[22-May-2023 08:29:04 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[22-May-2023 08:29:04 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[22-May-2023 08:29:04 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[22-May-2023 08:29:04 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[22-May-2023 08:29:04 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[22-May-2023 08:29:04 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[22-May-2023 08:29:05 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[22-May-2023 08:29:05 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[22-May-2023 08:29:06 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[22-May-2023 08:29:21 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[22-May-2023 08:29:22 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[22-May-2023 08:29:22 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[22-May-2023 08:29:22 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[22-May-2023 08:29:22 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[22-May-2023 08:29:22 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[22-May-2023 08:29:23 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[22-May-2023 08:29:23 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[22-May-2023 08:29:23 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[22-May-2023 08:29:23 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[22-May-2023 08:29:23 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[22-May-2023 08:29:23 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[22-May-2023 08:29:23 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[22-May-2023 08:29:23 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[22-May-2023 08:29:24 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[22-May-2023 08:29:24 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[22-May-2023 08:29:24 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[22-May-2023 08:29:24 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[22-May-2023 08:29:24 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[22-May-2023 08:29:24 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[22-May-2023 08:29:53 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9003 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[22-May-2023 08:29:54 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9003 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[22-May-2023 08:29:55 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9003 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[22-May-2023 08:30:12 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9003 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[22-May-2023 08:30:13 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9003 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[22-May-2023 08:30:26 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[22-May-2023 08:30:27 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[22-May-2023 08:30:28 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[22-May-2023 08:30:28 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[22-May-2023 17:50:58 UTC] Sync process for Gutenberg Blocks has started.
+[22-May-2023 17:50:58 UTC] CATEGORY:Importing categories..
+[22-May-2023 17:50:58 UTC] CATEGORY:Storing in option ast-block-templates-categories
+[22-May-2023 17:50:58 UTC] CATEGORY:Completed category import.
+[22-May-2023 17:50:58 UTC] BLOCK: Getting Total Blocks
+[22-May-2023 17:50:58 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/get-blocks-count/?page_builder=gutenberg&wireframe=yes
+[22-May-2023 17:50:59 UTC] BLOCK: Requests count 4
+[22-May-2023 17:50:59 UTC] BLOCK: Importing request 1 ..
+[22-May-2023 17:50:59 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=1&wireframe=yes
+[22-May-2023 17:50:59 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[22-May-2023 17:50:59 UTC] BLOCK: Completed request 1
+[22-May-2023 17:50:59 UTC] BLOCK: Importing request 2 ..
+[22-May-2023 17:50:59 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=2&wireframe=yes
+[22-May-2023 17:50:59 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[22-May-2023 17:50:59 UTC] BLOCK: Completed request 2
+[22-May-2023 17:50:59 UTC] BLOCK: Importing request 3 ..
+[22-May-2023 17:50:59 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=3&wireframe=yes
+[22-May-2023 17:50:59 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[22-May-2023 17:50:59 UTC] BLOCK: Completed request 3
+[22-May-2023 17:50:59 UTC] BLOCK: Importing request 4 ..
+[22-May-2023 17:50:59 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=4&wireframe=yes
+[22-May-2023 17:50:59 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[22-May-2023 17:50:59 UTC] BLOCK: Completed request 4
+[22-May-2023 17:50:59 UTC] SITE: Getting Total Sites
+[22-May-2023 17:50:59 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg
+[22-May-2023 17:50:59 UTC] SITE: Request count 2
+[22-May-2023 17:50:59 UTC] SITE: Importing request 1 ..
+[22-May-2023 17:50:59 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=1&page-builder=gutenberg
+[22-May-2023 17:51:00 UTC] SITE: Storing in option ast-block-templates-sites-1
+[22-May-2023 17:51:00 UTC] SITE: Completed request 1
+[22-May-2023 17:51:00 UTC] SITE: Importing request 2 ..
+[22-May-2023 17:51:00 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=2&page-builder=gutenberg
+[22-May-2023 17:51:00 UTC] SITE: Storing in option ast-block-templates-sites-2
+[22-May-2023 17:51:00 UTC] SITE: Completed request 2
+[22-May-2023 17:51:00 UTC] Sync process for Gutenberg Blocks is done.
+[23-May-2023 13:33:53 UTC] PHP Warning:  Undefined array key "data" in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\core\common\modules\ajax\module.php on line 175
+[23-May-2023 13:33:53 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\Boris\Local Sites\3dprinteritd\app\public\wp-content\plugins\elementor\modules\history\revisions-manager.php on line 363
+[23-May-2023 18:51:00 UTC] Sync process for Gutenberg Blocks has started.
+[23-May-2023 18:51:00 UTC] CATEGORY:Importing categories..
+[23-May-2023 18:51:00 UTC] CATEGORY:Storing in option ast-block-templates-categories
+[23-May-2023 18:51:00 UTC] CATEGORY:Completed category import.
+[23-May-2023 18:51:00 UTC] BLOCK: Getting Total Blocks
+[23-May-2023 18:51:00 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/get-blocks-count/?page_builder=gutenberg&wireframe=yes
+[23-May-2023 18:51:00 UTC] BLOCK: Requests count 4
+[23-May-2023 18:51:00 UTC] BLOCK: Importing request 1 ..
+[23-May-2023 18:51:00 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=1&wireframe=yes
+[23-May-2023 18:51:00 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[23-May-2023 18:51:00 UTC] BLOCK: Completed request 1
+[23-May-2023 18:51:00 UTC] BLOCK: Importing request 2 ..
+[23-May-2023 18:51:00 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=2&wireframe=yes
+[23-May-2023 18:51:00 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[23-May-2023 18:51:00 UTC] BLOCK: Completed request 2
+[23-May-2023 18:51:00 UTC] BLOCK: Importing request 3 ..
+[23-May-2023 18:51:00 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=3&wireframe=yes
+[23-May-2023 18:51:00 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[23-May-2023 18:51:00 UTC] BLOCK: Completed request 3
+[23-May-2023 18:51:00 UTC] BLOCK: Importing request 4 ..
+[23-May-2023 18:51:00 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=4&wireframe=yes
+[23-May-2023 18:51:00 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[23-May-2023 18:51:00 UTC] BLOCK: Completed request 4
+[23-May-2023 18:51:00 UTC] SITE: Getting Total Sites
+[23-May-2023 18:51:00 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg
+[23-May-2023 18:51:00 UTC] SITE: Request count 2
+[23-May-2023 18:51:00 UTC] SITE: Importing request 1 ..
+[23-May-2023 18:51:00 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=1&page-builder=gutenberg
+[23-May-2023 18:51:00 UTC] SITE: Storing in option ast-block-templates-sites-1
+[23-May-2023 18:51:00 UTC] SITE: Completed request 1
+[23-May-2023 18:51:00 UTC] SITE: Importing request 2 ..
+[23-May-2023 18:51:00 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=2&page-builder=gutenberg
+[23-May-2023 18:51:01 UTC] SITE: Storing in option ast-block-templates-sites-2
+[23-May-2023 18:51:01 UTC] SITE: Completed request 2
+[23-May-2023 18:51:01 UTC] Sync process for Gutenberg Blocks is done.
